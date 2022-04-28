@@ -6,7 +6,8 @@ module.exports = {
   target: 'web',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    publicPath: '/',
+    publicPath: '',
+    assetModuleFilename: 'images/[hash][ext][query]',
   },
   module: {
     rules: [
