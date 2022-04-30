@@ -1,3 +1,6 @@
+![example workflow](https://github.com/lekseff/AHJ_1/actions/workflows/ci_test.yml/badge.svg)
+![example workflow](https://github.com/lekseff/AHJ_1/actions/workflows/deploy.yml/badge.svg)
+
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
 ### Continuous Deployment
