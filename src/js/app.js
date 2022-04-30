@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // TODO: write code here
 
 // comment this to pass build
@@ -8,4 +9,4 @@ export default function demo(value) {
   return value;
 }
 
-console.log('app.js included');
+// console.log('app.js included');
